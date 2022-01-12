@@ -1,0 +1,9 @@
+# directory
+DataBase/0/
+Log/
+node_modules/
+
+# files
+
+*.result
+_cmd.exe
