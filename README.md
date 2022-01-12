@@ -1,2 +1,0 @@
-# googleAPI_spreadSheet_To_JSON
-googleAPI_spreadSheet_To_JSON
